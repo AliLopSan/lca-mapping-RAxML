@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="lca-map-RAxML",
-    version="0.1.0",
+    name="lca-map",
+    version="0.0.0",
     description="A package to build LCA maps for RAxML gene trees.",
     author="Alitzel Lopez Sanchez",
     author_email="alitzel.lopez.sanchez@usherbrooke.com",
