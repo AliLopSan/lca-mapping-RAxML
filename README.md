@@ -19,15 +19,20 @@ The **reconciliation problem** is a challenge in evolutionary biology. It involv
 
 ## Installation
 Clone the repository:
-``bash
+```bash
+{
 git clone https:https://github.com/AliLopSan/lcamap
+
 cd lca-map
-``
+}
+```
 Install dependencies:
 
-``bash
+```bash
+{
 pip- install -r requirements.txt
-``
+}
+```
 ---
 ## Usage
 ### Main function: `build_lca_map`
