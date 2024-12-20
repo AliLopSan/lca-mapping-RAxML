@@ -10,7 +10,7 @@ setup(
     author_email="alitzel.lopez.sanchez@usherbrooke.com",
     url="https://github.com/AliLopSan/lca-mapping-RAxML",
     packages=find_packages(where="src"),
-    package_dir={"":"src"}
+    package_dir={"":"src"},
     classifiers=[
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT license",
