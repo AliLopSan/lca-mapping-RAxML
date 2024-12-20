@@ -14,9 +14,9 @@ setup(
     classifiers=[
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT license",
-    "Operating System :: OS Independent",]
+        "Operating System :: OS Independent",],
     install_requires=[
         "tralda","asymmetree","pandas"
     ],
-    python_requires=">=3.7",
+    python_requires=">=3.7"
 )
